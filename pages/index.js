@@ -29,7 +29,7 @@ const App = () => {
 
   const renderNotConnectedContainer = () => (
     <div>
-      <img src="https://i.imgur.com/UWOlmVM.jpeg" alt="emoji" />
+      <img className='emoji-img' src="https://i.imgur.com/UWOlmVM.jpeg" alt="emoji" />
 
       <div className="button-container">
         <WalletMultiButton className="cta-button connect-wallet-button" />
@@ -61,8 +61,8 @@ const App = () => {
       <HeadComponent/>
       <div className="container">
         <header className="header-container">
-          <p className="header"> 😳 Buildspace Emoji Store 😈</p>
-          <p className="sub-text">The only emoji store that accepts shitcoins</p>
+          <p className="header"> 😳 Nazarine Emoji Store 😈</p>
+          <p className="sub-text">The only emoji store that accepts jesus coins</p>
 
           {isOwner && (
             <button className="create-product-button" onClick={() => setCreating(!creating)}>
@@ -83,7 +83,7 @@ const App = () => {
             href={TWITTER_LINK}
             target="_blank"
             rel="noreferrer"
-          >{`built on @${TWITTER_HANDLE}`}</a>
+          >{`built on @${TWITTER_HANDLE} by WaynMorg`} </a>
         </div>
       </div>
     </div>
