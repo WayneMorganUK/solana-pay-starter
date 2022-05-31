@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Penguin Emoji pack",
+    "price": "0.09",
+    "description": "Get this penguin emoji pack for only $0.09! Includes 3 hot emojis: Pingu, Pingo, and Pingum",
+    "image_url": "https://i.imgur.com/UWOlmVM.jpeg",
+    "filename": "penguin_emoji.zip",
+    "hash": "QmZVom59R9rh39ck6PXihsfGsWYEi3PxQYcJYQjVQmfdWc"
+  },
+  {
+    "id": 2,
+    "name": "Snoopy Memes",
+    "price": "0.10",
+    "image_url": "https://i.imgur.com/uWyPyjp.jpeg",
+    "description": "Purchase a Snoopy Memes pack for only $0.10! Includes 3 hilarious memes: Lazy, Interrupt and Energy",
+    "filename": "snoopy_memes.zip",
+    "hash": "QmWJBHHPyYtYNUngydHg6rFCjYwmKHsp7bdxX2PLp8xd4d"
+  }
+]
